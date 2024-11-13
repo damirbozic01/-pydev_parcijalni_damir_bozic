@@ -1,6 +1,9 @@
 import json
 
 
+# TODO: dodati typ hiting na sve funkcije!
+
+
 OFFERS_FILE = "offers.json"
 PRODUCTS_FILE = "products.json"
 CUSTOMERS_FILE = "customers.json"
